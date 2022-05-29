@@ -87,7 +87,7 @@
     </nav>
     <!-- http://tholman.com/github-corners/ -->
     <a
-      href="https://github.com/ramsayleung/blog"
+      href="https://github.com/dllen/rust-blog"
       class="github-corner"
       aria-label="View source on Github"
       ><svg
